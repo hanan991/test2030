@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+    background-color: #8E8E8E;
+    width: 10cm;
+    height: 3cm;
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#body #body-r {
+    width: 10cm;
+    height: 20cm;
+    display: block;
+    text-align: center;
+    text-decoration: underline;
+    color: #DB1B1E;
+    border-right-width: 0cm;
+    background-color: #A4A4A4;
+}
+#all {
+    width: 1080px;
+    height: 1080px;
+    margin: 88;
+    min-width: 0px;
+    background-color: #D5A5A6;
+    background-image: url(images/Channel%20Mask%2002.jpg);
+}
+#header  {
+    background-image: -webkit-repeating-linear-gradient(270deg,rgba(63,80,187,1.00) 22.73%,rgba(0,255,244,0.51) 71.85%), url(url);
+    background-image: -moz-repeating-linear-gradient(270deg,rgba(63,80,187,1.00) 22.73%,rgba(0,255,244,0.51) 71.85%), url(url);
+    background-image: -o-repeating-linear-gradient(270deg,rgba(63,80,187,1.00) 22.73%,rgba(0,255,244,0.51) 71.85%), url(url);
+    background-image: repeating-linear-gradient(180deg,rgba(63,80,187,1.00) 22.73%,rgba(0,255,244,0.51) 71.85%), url(url);
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-style: 16;
+    font-size: xx-large;
+    text-decoration: underline;
+    text-shadow: 0px 0px 10px;
+    width: 50cm;
+    height: 25cm;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+#all #mainn {
+    width: 55cm;
+    height: 60cm;
+    min-width: 0px;
+    color: #861315;
+    font-size: xx-large;
+    text-align: left;
+    text-decoration: line-through;
+}
+#all #footer {
+}
+#all {
+}
+#all #footer {
+}
+#all #footer {
+}
+#navtop {
+    display: block;
+}
+#all #mainn #body {
+}
+#bod5y-r a {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    -webkit-box-shadow: 0px 0px #E62629;
+    box-shadow: 0px 0px #E62629;
+    border-right-width: 195px;
+    display: block;
+}
